@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a blockchain engineer working on DeFi (open source projects and full-time @ cryptodotcom)
+I'm a full-stack blockchain engineer working on DeFi (open source projects and full-time @ cryptodotcom)
 
 # Working hard to build a decentralized future  
 
