@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a full-stack blockchain engineer working on DeFi
+I'm a full-stack blockchain engineer working on DeFi and Web3
 
 # Working hard to build a decentralized future  
 
@@ -11,7 +11,7 @@ I'm a full-stack blockchain engineer working on DeFi
 ### Blockchain Development 
 
 - Solidity
-- HardHat
+- Hardhat
 - Ethers.js
 - OpenZeppelin
 - TheGraph
