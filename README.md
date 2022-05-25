@@ -12,6 +12,7 @@ I'm a full-stack blockchain engineer working on DeFi and Web3
 
 - Solidity
 - Hardhat
+- Foundry
 - Ethers.js
 - OpenZeppelin
 - TheGraph
