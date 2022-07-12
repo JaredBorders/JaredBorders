@@ -22,3 +22,9 @@ I'm a blockchain engineer working in DeFi
 - SQL
 - GraphQL, REST API Design
 - Java, JS, TS, Swift
+
+          _  _
+           | )/ )
+        \\ |//,' __
+        (")(_)-"()))=-
+           (\\
