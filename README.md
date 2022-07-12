@@ -1,6 +1,9 @@
 ### Hi there 👋
-
-I'm a blockchain engineer working in DeFi
+          _  _
+           | )/ )
+        \\ |//,' __
+        (")(_)-"()))=-
+           (\\
 
 # Building a decentralized future
 
@@ -22,9 +25,3 @@ I'm a blockchain engineer working in DeFi
 - SQL
 - GraphQL, REST API Design
 - Java, JS, TS, Swift
-
-          _  _
-           | )/ )
-        \\ |//,' __
-        (")(_)-"()))=-
-           (\\
