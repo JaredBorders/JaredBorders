@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a full-stack blockchain engineer working on DeFi and Web3
+I'm a blockchain engineer working in DeFi!
 
 # Building a decentralized future
 
