@@ -1,9 +1,6 @@
 ### Hi there 👋
-          _  _
-           | )/ )
-        \\ |//,' __
-        (")(_)-"()))=-
-           (\\
+
+I'm a blockchain engineer working in DeFi
 
 # Building a decentralized future
 
