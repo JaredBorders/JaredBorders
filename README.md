@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋
 
 I'm a blockchain engineer working in DeFi
 
