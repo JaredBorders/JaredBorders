@@ -1,6 +1,6 @@
 ### 👋
 
-I'm a blockchain engineer working in DeFi
+I'm a smart contract engineer working in DeFi
 
 # Building a decentralized future
 
