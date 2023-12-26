@@ -1,8 +1,10 @@
 ### 👋
 
-I'm a smart contract engineer working in DeFi
+I'm a protocol engineer working in DeFi
 
-- 👷🏻‍♂️ Protocol Engineer at <a href="https://v2.beta.kwenta.io/market/sETH">Kwenta</a>
+- 👷🏻‍♂️ senior smart contract engineer at <a href="https://v2.beta.kwenta.io/market/sETH">Kwenta</a>
 - 🎓 <a href="https://0xmacro.com/">0xMacro</a> engineering fellowship alumni focused on smart contract security and auditing
-- 🧑🏻‍💻 Previously a smart contract engineer at Crypto.com (DeFi team)
-- 👩🏻‍🚀 Ethernaut -> <a href="https://twitter.com/EthernautDAO">EthernautDAO</a>: Mentorship program for Web2 engineers transitioning into Web3
+- 🧑🏻‍💻 prev smart contract engineer at Crypto.com (DeFi team)
+- 👩🏻‍🚀 ethernaut -> <a href="https://twitter.com/EthernautDAO">EthernautDAO</a>: mentorship program for Web2 engineers transitioning into Web3
+- λ functional programming adventurer learning OCaml
+- 🧱 decentralized financial derivatives builder
