@@ -7,4 +7,3 @@ I'm a protocol engineer working in DeFi
 - 🧑🏻‍💻 prev smart contract engineer at Crypto.com (DeFi team)
 - 👩🏻‍🚀 ethernaut -> <a href="https://twitter.com/EthernautDAO">EthernautDAO</a>: mentorship program for Web2 engineers transitioning into Web3
 - 🐪 functional programming adventurer learning OCaml
-- 🧱 decentralized financial derivatives builder
