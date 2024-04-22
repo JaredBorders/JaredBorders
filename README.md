@@ -17,3 +17,5 @@ Mentor at [EthernautDAO](https://forum.ethernautdao.io/t/smart-contract-engineer
 [KIP-80: Smart Margin Account Upgrade](https://gov.kwenta.eth.limo/kips/kip-080/) <br>
 ##### Kwenta Blog
 [Launching Smart Margin v2](https://mirror.xyz/kwenta.eth/I9l_QSOvf6kGQos3SXltES9WCAvEklS56aIbKHccHUg) <br>
+##### Synthetix Improvement Proposals (SIPs)
+[Asynchronous Delegation](https://sips.synthetix.io/sips/sip-366/)
