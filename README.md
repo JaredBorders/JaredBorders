@@ -1,5 +1,22 @@
 ### 👋
 
-[Perps: Quanto > Traditional?](https://mirror.xyz/jaredborders.eth/jiCrjwoSNgQJejd3AqEmA-Lv0YFwBdB0C7tmDgyoh0U) <br>
-[User-Defined Types in DeFi and Why You Should Care](https://mirror.xyz/jaredborders.eth/9JWZAGP8o8plKXAZWY6h0shiw5y4lgmbHjqep3IXN4I) <br>
-[Mastering EIP-712: Hashing Complex Data](https://mirror.xyz/jaredborders.eth/G2RP5XAfLbNZv01DXgxuzv_34bQF_PuO1X2u0Nhop9g) <br>
+[**Designing Funding Rates for FX Perpetual Futures**](https://jaredborders.dev/pieces/funding-rates-fx-perpetuals.html)  
+May 2026
+
+[**Stablecoin Derivatives: Blockchain Networks as FX Market Infrastructure**](https://jaredborders.dev/pieces/ollo-thesis.html)  
+March 2026
+
+[**FLOAT: FX Liquidity Orchestration, Allocation, & Timing**](https://jaredborders.dev/pieces/float.html)  
+December 2025
+
+[**Asynchronous Delegation**](https://jaredborders.dev/pieces/asynchronous-delegation.html)  
+March 2025
+
+[**Perps: Quanto > Traditional?**](https://jaredborders.dev/pieces/quanto-perps.html)  
+April 2024
+
+[**User-Defined Types in DeFi and Why You Should Care**](https://jaredborders.dev/pieces/user-defined-types-in-defi.html)  
+February 2024
+
+[**Mastering EIP-712: Hashing Complex Data**](https://jaredborders.dev/pieces/eip-712-hashing-complex-data.html)  
+December 2023
