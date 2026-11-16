@@ -1,4 +1,5 @@
 ###👋
+
 [**jaredborders.dev↗↗**](https://jaredborders.dev/)
 [**Designing Funding Rates for FX Perpetual Futures**](https://jaredborders.dev/pieces/funding-rates-fx-perpetuals.html)  
 [**Stablecoin Derivatives: Blockchain Networks as FX Market Infrastructure**](https://jaredborders.dev/pieces/ollo-thesis.html)  
